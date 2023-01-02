@@ -210,10 +210,8 @@
                          
   
  [*]============================================= 
-     Author   : RIAZKHAN 
-     Facebook : https://facebook.com/RIAZKHAN 
-     Team     : anees+ali+riaz 
-     Connect  : 03188214452 
+     Author   : RABAILAHMED
+     Facebook :https://www.facebook.com/profile.php?id=100021675640763
  [*]============================================= 
     \033[1;31m  Use (Flight) Airplane Mod For Speed Up \033[1;37m 
  [*]=============================================""" 
